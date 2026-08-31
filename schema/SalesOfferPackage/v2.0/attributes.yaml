@@ -27,7 +27,7 @@ components:
           $ref: https://schema.nfh.global/FareProduct/v2.0/attributes.yaml#/components/schemas/FareProduct
         distributions:
           description: Channels through which this package can be purchased
-          $ref: https://schema.nfh.global/DistributionChannel/v2.0/attributes.yaml#/components/schemas/DistributionChannel
+          $ref: https://schema.nfh.global/CommunicationChannel/v2.0/attributes.yaml#/components/schemas/CommunicationChannel
         conditionsOfTravel:
           description: Conditions applying to the use of this package
           type: string

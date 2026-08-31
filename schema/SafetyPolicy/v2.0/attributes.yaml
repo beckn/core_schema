@@ -26,7 +26,7 @@ components:
           type: string
         emergencyContact:
           description: Emergency contact handle for safety incidents
-          $ref: https://schema.nfh.global/ContactHandle/v2.0/attributes.yaml#/components/schemas/ContactHandle
+          $ref: https://schema.nfh.global/Contact/v2.0/attributes.yaml#/components/schemas/Contact
         insuranceCoverage:
           description: Description of insurance coverage under this policy
           type: string

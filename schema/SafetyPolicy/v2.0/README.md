@@ -16,7 +16,7 @@ A set of rules, protocols, and standards governing safety requirements for drive
 | Property | Required | Type | Description |
 |---|---|---|---|
 | `safetyInstructions` | no | string | Instructions and guidelines for passenger and driver safety |
-| `emergencyContact` | no | $ref: https://schema.nfh.global/ContactHandle/v2.0/attributes.yaml#/components/schemas/ContactHandle | Emergency contact handle for safety incidents |
+| `emergencyContact` | no | $ref: https://schema.nfh.global/Contact/v2.0/attributes.yaml#/components/schemas/Contact | Emergency contact handle for safety incidents |
 | `insuranceCoverage` | no | string | Description of insurance coverage under this policy |
 | `id` | no | string | Unique identifier for the policy |
 | `policyType` | no | string | Type of policy (extensible term) |

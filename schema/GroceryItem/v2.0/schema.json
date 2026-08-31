@@ -1,52 +1,45 @@
 {
-  "allOf": [
-    {
-      "$ref": "https://schema.nfh.global/RetailCoreItem/v2.0/schema.json"
-    },
-    {
-      "type": "object",
-      "additionalProperties": false,
-      "x-jsonld": {},
-      "description": "Grocery-specific extensions to RetailCoreItemAttributes. Covers nutrition information and fresh produce declarations. ",
-      "properties": {
-        "nutrition": {
-          "type": "array",
-          "description": "Nutrition facts per serving or per 100g/100ml. Context of measurement may be specified via unit. ",
-          "items": {
-            "type": "object",
-            "additionalProperties": false,
-            "required": [
-              "nutrient",
-              "value"
-            ],
-            "properties": {
-              "nutrient": {
-                "type": "string",
-                "description": "Nutrient name (e.g., Energy, Protein, Sodium)."
-              },
-              "value": {
-                "description": "Nutrient value expressed as Beckn core Quantity.",
-                "$ref": "https://schema.nfh.global/Quantity/v2.0/schema.json"
-              }
-            }
-          }
-        },
-        "freshProduce": {
-          "type": "object",
-          "additionalProperties": false,
-          "description": "Additional declaration applicable for unpackaged or loose produce. ",
-          "properties": {
-            "netQuantityDeclaration": {
-              "type": "string",
-              "description": "Declared weight/quantity information for loose produce."
-            }
-          }
-        }
-      }
-    }
-  ],
   "$id": "https://schema.nfh.global/GroceryItem/v2.0",
   "x-iri": "https://schema.nfh.global/GroceryItem/v2.0",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "GroceryItem"
+  "title": "GroceryItem",
+  "type": "object",
+  "additionalProperties": false,
+  "x-jsonld": {},
+  "description": "Grocery-specific extensions to RetailCoreItemAttributes. Covers nutrition information and fresh produce declarations. ",
+  "properties": {
+    "nutrition": {
+      "type": "array",
+      "description": "Nutrition facts per serving or per 100g/100ml. Context of measurement may be specified via unit. ",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "nutrient",
+          "value"
+        ],
+        "properties": {
+          "nutrient": {
+            "type": "string",
+            "description": "Nutrient name (e.g., Energy, Protein, Sodium)."
+          },
+          "value": {
+            "description": "Nutrient value expressed as Beckn core Quantity.",
+            "$ref": "https://schema.nfh.global/Quantity/v2.0/schema.json"
+          }
+        }
+      }
+    },
+    "freshProduce": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Additional declaration applicable for unpackaged or loose produce. ",
+      "properties": {
+        "netQuantityDeclaration": {
+          "type": "string",
+          "description": "Declared weight/quantity information for loose produce."
+        }
+      }
+    }
+  }
 }
