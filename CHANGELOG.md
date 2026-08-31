@@ -6,6 +6,20 @@ This changelog follows the format: **Added**, **Changed**, **Deprecated**, **Rem
 
 ---
 
+## [Unreleased]
+
+### Fixed
+
+- `CallbackAction`, `RequestAction` (Patch): Removed broken `$ref` pointers to non-existent `BecknAction` schema; declared directly as deprecated objects.
+- `TransactionEndpoint` (Patch): Removed invalid `allOf` inheritance pointing to non-existent `BecknEndpoint` schema; defined directly as endpoint enum.
+- `LineageEntry` (Patch): Fixed `action` property `$ref` to point to `TransactionEndpoint` instead of non-existent `BecknEndpoint`.
+- `GroceryItem`, `HomeAndKitchenItem` (Patch): Removed invalid `allOf` inheritance pointing to non-existent `RetailCoreItem` schema; defined directly as objects.
+- `SalesOfferPackage` (Patch): Fixed `distributions` property `$ref` to point to `CommunicationChannel` instead of non-existent `DistributionChannel`.
+- `SafetyPolicy` (Patch): Fixed `emergencyContact` property `$ref` to point to `Contact` instead of non-existent `ContactHandle`.
+- `CodedValue` (Patch): Added missing `schema.json` for v2.1 resolving `$ref` pointers from `CourseResourceAttributes`.
+
+---
+
 ## [v2.0.0] — 2026-02-23
 
 **Initial release of the Beckn Protocol Core Schema v2.0.**
