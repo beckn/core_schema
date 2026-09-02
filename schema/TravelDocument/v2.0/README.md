@@ -6,13 +6,9 @@ A document (physical or digital) issued to a passenger proving entitlement to tr
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/TravelDocument/attributes.yaml](https://schema.nfh.global/TravelDocument/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/TravelDocument/v2.0/attributes.yaml](https://schema.nfh.global/TravelDocument/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/TravelDocument/attributes.jsonschema.yaml](https://schema.nfh.global/TravelDocument/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/TravelDocument/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/TravelDocument/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/TravelDocument/context.jsonld](https://schema.nfh.global/TravelDocument/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/TravelDocument/v2.0/context.jsonld](https://schema.nfh.global/TravelDocument/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/TravelDocument/vocab.jsonld](https://schema.nfh.global/TravelDocument/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/TravelDocument/v2.0/vocab.jsonld](https://schema.nfh.global/TravelDocument/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

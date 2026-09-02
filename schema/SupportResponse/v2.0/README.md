@@ -6,13 +6,9 @@ Support response payload returned by a BPP to a BAP in the /beckn/on_support cal
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/SupportResponse/attributes.yaml](https://schema.nfh.global/SupportResponse/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/SupportResponse/v2.0/attributes.yaml](https://schema.nfh.global/SupportResponse/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/SupportResponse/attributes.jsonschema.yaml](https://schema.nfh.global/SupportResponse/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/SupportResponse/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/SupportResponse/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/SupportResponse/context.jsonld](https://schema.nfh.global/SupportResponse/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/SupportResponse/v2.0/context.jsonld](https://schema.nfh.global/SupportResponse/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/SupportResponse/vocab.jsonld](https://schema.nfh.global/SupportResponse/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/SupportResponse/v2.0/vocab.jsonld](https://schema.nfh.global/SupportResponse/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

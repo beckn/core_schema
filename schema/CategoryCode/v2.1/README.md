@@ -6,13 +6,9 @@ Schema definition for CategoryCode in the Beckn Protocol v2.0.1
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/CategoryCode/attributes.yaml](https://schema.nfh.global/CategoryCode/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/CategoryCode/v2.1/attributes.yaml](https://schema.nfh.global/CategoryCode/v2.1/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/CategoryCode/attributes.jsonschema.yaml](https://schema.nfh.global/CategoryCode/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/CategoryCode/v2.1/attributes.jsonschema.yaml](https://schema.nfh.global/CategoryCode/v2.1/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/CategoryCode/context.jsonld](https://schema.nfh.global/CategoryCode/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/CategoryCode/v2.1/context.jsonld](https://schema.nfh.global/CategoryCode/v2.1/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/CategoryCode/vocab.jsonld](https://schema.nfh.global/CategoryCode/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/CategoryCode/v2.1/vocab.jsonld](https://schema.nfh.global/CategoryCode/v2.1/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

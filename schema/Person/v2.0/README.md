@@ -6,13 +6,9 @@ A person (alive, deceased, or fictional). Modeled after schema.org/Person.
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Person/attributes.yaml](https://schema.nfh.global/Person/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Person/v2.0/attributes.yaml](https://schema.nfh.global/Person/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Person/attributes.jsonschema.yaml](https://schema.nfh.global/Person/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Person/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Person/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Person/context.jsonld](https://schema.nfh.global/Person/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Person/v2.0/context.jsonld](https://schema.nfh.global/Person/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Person/vocab.jsonld](https://schema.nfh.global/Person/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Person/v2.0/vocab.jsonld](https://schema.nfh.global/Person/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

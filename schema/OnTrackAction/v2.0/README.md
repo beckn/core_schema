@@ -9,13 +9,9 @@ the URL and/or WebSocket endpoint for real-time fulfillment tracking.
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/OnTrackAction/attributes.yaml](https://schema.nfh.global/OnTrackAction/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/OnTrackAction/v2.0/attributes.yaml](https://schema.nfh.global/OnTrackAction/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/OnTrackAction/attributes.jsonschema.yaml](https://schema.nfh.global/OnTrackAction/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/OnTrackAction/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/OnTrackAction/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/OnTrackAction/context.jsonld](https://schema.nfh.global/OnTrackAction/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/OnTrackAction/v2.0/context.jsonld](https://schema.nfh.global/OnTrackAction/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/OnTrackAction/vocab.jsonld](https://schema.nfh.global/OnTrackAction/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/OnTrackAction/v2.0/vocab.jsonld](https://schema.nfh.global/OnTrackAction/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

@@ -6,13 +6,9 @@ Defines conditions for returning goods and reverse logistics workflows.
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/ReturnPolicy/attributes.yaml](https://schema.nfh.global/ReturnPolicy/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/ReturnPolicy/v2.0/attributes.yaml](https://schema.nfh.global/ReturnPolicy/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/ReturnPolicy/attributes.jsonschema.yaml](https://schema.nfh.global/ReturnPolicy/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/ReturnPolicy/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/ReturnPolicy/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/ReturnPolicy/context.jsonld](https://schema.nfh.global/ReturnPolicy/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/ReturnPolicy/v2.0/context.jsonld](https://schema.nfh.global/ReturnPolicy/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/ReturnPolicy/vocab.jsonld](https://schema.nfh.global/ReturnPolicy/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/ReturnPolicy/v2.0/vocab.jsonld](https://schema.nfh.global/ReturnPolicy/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

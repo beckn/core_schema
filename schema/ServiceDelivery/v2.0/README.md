@@ -6,13 +6,9 @@ The top-level response container in SIRI encapsulating one or more real-time dat
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/ServiceDelivery/attributes.yaml](https://schema.nfh.global/ServiceDelivery/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/ServiceDelivery/v2.0/attributes.yaml](https://schema.nfh.global/ServiceDelivery/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/ServiceDelivery/attributes.jsonschema.yaml](https://schema.nfh.global/ServiceDelivery/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/ServiceDelivery/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/ServiceDelivery/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/ServiceDelivery/context.jsonld](https://schema.nfh.global/ServiceDelivery/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/ServiceDelivery/v2.0/context.jsonld](https://schema.nfh.global/ServiceDelivery/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/ServiceDelivery/vocab.jsonld](https://schema.nfh.global/ServiceDelivery/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/ServiceDelivery/v2.0/vocab.jsonld](https://schema.nfh.global/ServiceDelivery/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

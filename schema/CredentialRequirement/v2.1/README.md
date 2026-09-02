@@ -6,13 +6,9 @@ A single credential requirement or prerequisite. Specifies what a candidate or e
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/CredentialRequirement/attributes.yaml](https://schema.nfh.global/CredentialRequirement/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/CredentialRequirement/v2.1/attributes.yaml](https://schema.nfh.global/CredentialRequirement/v2.1/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/CredentialRequirement/attributes.jsonschema.yaml](https://schema.nfh.global/CredentialRequirement/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/CredentialRequirement/v2.1/attributes.jsonschema.yaml](https://schema.nfh.global/CredentialRequirement/v2.1/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/CredentialRequirement/context.jsonld](https://schema.nfh.global/CredentialRequirement/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/CredentialRequirement/v2.1/context.jsonld](https://schema.nfh.global/CredentialRequirement/v2.1/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/CredentialRequirement/vocab.jsonld](https://schema.nfh.global/CredentialRequirement/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/CredentialRequirement/v2.1/vocab.jsonld](https://schema.nfh.global/CredentialRequirement/v2.1/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

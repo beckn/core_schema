@@ -6,13 +6,9 @@ A set of geographic locations (stops or areas) that can collectively serve as an
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/LocationGroup/attributes.yaml](https://schema.nfh.global/LocationGroup/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/LocationGroup/v2.0/attributes.yaml](https://schema.nfh.global/LocationGroup/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/LocationGroup/attributes.jsonschema.yaml](https://schema.nfh.global/LocationGroup/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/LocationGroup/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/LocationGroup/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/LocationGroup/context.jsonld](https://schema.nfh.global/LocationGroup/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/LocationGroup/v2.0/context.jsonld](https://schema.nfh.global/LocationGroup/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/LocationGroup/vocab.jsonld](https://schema.nfh.global/LocationGroup/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/LocationGroup/v2.0/vocab.jsonld](https://schema.nfh.global/LocationGroup/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

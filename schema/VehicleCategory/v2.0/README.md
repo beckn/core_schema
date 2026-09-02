@@ -6,13 +6,9 @@ A broad classification of vehicles by their physical type, such as two-wheeler, 
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/VehicleCategory/attributes.yaml](https://schema.nfh.global/VehicleCategory/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/VehicleCategory/v2.0/attributes.yaml](https://schema.nfh.global/VehicleCategory/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/VehicleCategory/attributes.jsonschema.yaml](https://schema.nfh.global/VehicleCategory/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/VehicleCategory/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/VehicleCategory/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/VehicleCategory/context.jsonld](https://schema.nfh.global/VehicleCategory/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/VehicleCategory/v2.0/context.jsonld](https://schema.nfh.global/VehicleCategory/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/VehicleCategory/vocab.jsonld](https://schema.nfh.global/VehicleCategory/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/VehicleCategory/v2.0/vocab.jsonld](https://schema.nfh.global/VehicleCategory/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

@@ -6,13 +6,9 @@ A credential/document/proof relevant to authorization at a fulfillment stage end
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/FulfillmentStageAuthorization/attributes.yaml](https://schema.nfh.global/FulfillmentStageAuthorization/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/attributes.yaml](https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/FulfillmentStageAuthorization/attributes.jsonschema.yaml](https://schema.nfh.global/FulfillmentStageAuthorization/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/FulfillmentStageAuthorization/context.jsonld](https://schema.nfh.global/FulfillmentStageAuthorization/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/context.jsonld](https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/FulfillmentStageAuthorization/vocab.jsonld](https://schema.nfh.global/FulfillmentStageAuthorization/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/vocab.jsonld](https://schema.nfh.global/FulfillmentStageAuthorization/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

@@ -6,13 +6,9 @@ A passenger's request for an on-demand transport service between two points, spe
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/RideRequest/attributes.yaml](https://schema.nfh.global/RideRequest/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/RideRequest/v2.0/attributes.yaml](https://schema.nfh.global/RideRequest/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/RideRequest/attributes.jsonschema.yaml](https://schema.nfh.global/RideRequest/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/RideRequest/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/RideRequest/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/RideRequest/context.jsonld](https://schema.nfh.global/RideRequest/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/RideRequest/v2.0/context.jsonld](https://schema.nfh.global/RideRequest/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/RideRequest/vocab.jsonld](https://schema.nfh.global/RideRequest/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/RideRequest/v2.0/vocab.jsonld](https://schema.nfh.global/RideRequest/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

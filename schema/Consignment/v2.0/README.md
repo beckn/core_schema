@@ -6,13 +6,9 @@ A Consignment is a collection of packages or shipments grouped together under a 
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Consignment/attributes.yaml](https://schema.nfh.global/Consignment/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Consignment/v2.0/attributes.yaml](https://schema.nfh.global/Consignment/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Consignment/attributes.jsonschema.yaml](https://schema.nfh.global/Consignment/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Consignment/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Consignment/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Consignment/context.jsonld](https://schema.nfh.global/Consignment/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Consignment/v2.0/context.jsonld](https://schema.nfh.global/Consignment/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Consignment/vocab.jsonld](https://schema.nfh.global/Consignment/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Consignment/v2.0/vocab.jsonld](https://schema.nfh.global/Consignment/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

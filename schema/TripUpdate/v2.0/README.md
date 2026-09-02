@@ -6,13 +6,9 @@ A multi-dimensional update to an in-progress or upcoming mobility trip, covering
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/TripUpdate/attributes.yaml](https://schema.nfh.global/TripUpdate/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/TripUpdate/v2.0/attributes.yaml](https://schema.nfh.global/TripUpdate/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/TripUpdate/attributes.jsonschema.yaml](https://schema.nfh.global/TripUpdate/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/TripUpdate/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/TripUpdate/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/TripUpdate/context.jsonld](https://schema.nfh.global/TripUpdate/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/TripUpdate/v2.0/context.jsonld](https://schema.nfh.global/TripUpdate/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/TripUpdate/vocab.jsonld](https://schema.nfh.global/TripUpdate/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/TripUpdate/v2.0/vocab.jsonld](https://schema.nfh.global/TripUpdate/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

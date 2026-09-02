@@ -6,13 +6,9 @@ A Waypoint is an intermediate stop or checkpoint on a logistics route, such as a
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Waypoint/attributes.yaml](https://schema.nfh.global/Waypoint/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Waypoint/v2.0/attributes.yaml](https://schema.nfh.global/Waypoint/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Waypoint/attributes.jsonschema.yaml](https://schema.nfh.global/Waypoint/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Waypoint/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Waypoint/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Waypoint/context.jsonld](https://schema.nfh.global/Waypoint/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Waypoint/v2.0/context.jsonld](https://schema.nfh.global/Waypoint/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Waypoint/vocab.jsonld](https://schema.nfh.global/Waypoint/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Waypoint/v2.0/vocab.jsonld](https://schema.nfh.global/Waypoint/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

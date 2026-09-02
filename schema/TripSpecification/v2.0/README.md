@@ -6,13 +6,9 @@ A description of the desired journey used as input to search and price transport
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/TripSpecification/attributes.yaml](https://schema.nfh.global/TripSpecification/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/TripSpecification/v2.0/attributes.yaml](https://schema.nfh.global/TripSpecification/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/TripSpecification/attributes.jsonschema.yaml](https://schema.nfh.global/TripSpecification/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/TripSpecification/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/TripSpecification/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/TripSpecification/context.jsonld](https://schema.nfh.global/TripSpecification/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/TripSpecification/v2.0/context.jsonld](https://schema.nfh.global/TripSpecification/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/TripSpecification/vocab.jsonld](https://schema.nfh.global/TripSpecification/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/TripSpecification/v2.0/vocab.jsonld](https://schema.nfh.global/TripSpecification/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

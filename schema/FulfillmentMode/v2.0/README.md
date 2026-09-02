@@ -6,13 +6,9 @@ Describes the mode of fulfillment. This is an extensible container allowing doma
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/FulfillmentMode/attributes.yaml](https://schema.nfh.global/FulfillmentMode/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/FulfillmentMode/v2.0/attributes.yaml](https://schema.nfh.global/FulfillmentMode/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/FulfillmentMode/attributes.jsonschema.yaml](https://schema.nfh.global/FulfillmentMode/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/FulfillmentMode/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/FulfillmentMode/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/FulfillmentMode/context.jsonld](https://schema.nfh.global/FulfillmentMode/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/FulfillmentMode/v2.0/context.jsonld](https://schema.nfh.global/FulfillmentMode/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/FulfillmentMode/vocab.jsonld](https://schema.nfh.global/FulfillmentMode/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/FulfillmentMode/v2.0/vocab.jsonld](https://schema.nfh.global/FulfillmentMode/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

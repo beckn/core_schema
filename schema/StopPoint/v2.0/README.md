@@ -6,13 +6,9 @@ An abstract or scheduled point in a public transport network at which passengers
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/StopPoint/attributes.yaml](https://schema.nfh.global/StopPoint/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/StopPoint/v2.0/attributes.yaml](https://schema.nfh.global/StopPoint/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/StopPoint/attributes.jsonschema.yaml](https://schema.nfh.global/StopPoint/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/StopPoint/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/StopPoint/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/StopPoint/context.jsonld](https://schema.nfh.global/StopPoint/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/StopPoint/v2.0/context.jsonld](https://schema.nfh.global/StopPoint/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/StopPoint/vocab.jsonld](https://schema.nfh.global/StopPoint/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/StopPoint/v2.0/vocab.jsonld](https://schema.nfh.global/StopPoint/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

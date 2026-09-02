@@ -8,13 +8,9 @@ This schema is part of the Long Term Support of Beckn Protocol V2.0 API specific
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/DeliveryPolicy/attributes.yaml](https://schema.nfh.global/DeliveryPolicy/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/DeliveryPolicy/v2.0/attributes.yaml](https://schema.nfh.global/DeliveryPolicy/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/DeliveryPolicy/attributes.jsonschema.yaml](https://schema.nfh.global/DeliveryPolicy/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/DeliveryPolicy/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/DeliveryPolicy/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/DeliveryPolicy/context.jsonld](https://schema.nfh.global/DeliveryPolicy/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/DeliveryPolicy/v2.0/context.jsonld](https://schema.nfh.global/DeliveryPolicy/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/DeliveryPolicy/vocab.jsonld](https://schema.nfh.global/DeliveryPolicy/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/DeliveryPolicy/v2.0/vocab.jsonld](https://schema.nfh.global/DeliveryPolicy/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

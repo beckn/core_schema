@@ -6,13 +6,9 @@ A causal attribution record asserting that the Beckn transaction in which this e
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/LineageEntry/attributes.yaml](https://schema.nfh.global/LineageEntry/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/LineageEntry/v2.0/attributes.yaml](https://schema.nfh.global/LineageEntry/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/LineageEntry/attributes.jsonschema.yaml](https://schema.nfh.global/LineageEntry/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/LineageEntry/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/LineageEntry/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/LineageEntry/context.jsonld](https://schema.nfh.global/LineageEntry/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/LineageEntry/v2.0/context.jsonld](https://schema.nfh.global/LineageEntry/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/LineageEntry/vocab.jsonld](https://schema.nfh.global/LineageEntry/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/LineageEntry/v2.0/vocab.jsonld](https://schema.nfh.global/LineageEntry/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

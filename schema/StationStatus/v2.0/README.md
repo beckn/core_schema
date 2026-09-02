@@ -6,13 +6,9 @@ The real-time operational state of a shared mobility station, including the numb
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/StationStatus/attributes.yaml](https://schema.nfh.global/StationStatus/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/StationStatus/v2.0/attributes.yaml](https://schema.nfh.global/StationStatus/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/StationStatus/attributes.jsonschema.yaml](https://schema.nfh.global/StationStatus/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/StationStatus/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/StationStatus/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/StationStatus/context.jsonld](https://schema.nfh.global/StationStatus/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/StationStatus/v2.0/context.jsonld](https://schema.nfh.global/StationStatus/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/StationStatus/vocab.jsonld](https://schema.nfh.global/StationStatus/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/StationStatus/v2.0/vocab.jsonld](https://schema.nfh.global/StationStatus/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

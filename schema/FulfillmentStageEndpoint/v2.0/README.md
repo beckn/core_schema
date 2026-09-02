@@ -6,13 +6,9 @@ A stage boundary endpoint (entry or exit) within a fulfillment, such as pickup, 
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/FulfillmentStageEndpoint/attributes.yaml](https://schema.nfh.global/FulfillmentStageEndpoint/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/attributes.yaml](https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/FulfillmentStageEndpoint/attributes.jsonschema.yaml](https://schema.nfh.global/FulfillmentStageEndpoint/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/FulfillmentStageEndpoint/context.jsonld](https://schema.nfh.global/FulfillmentStageEndpoint/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/context.jsonld](https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/FulfillmentStageEndpoint/vocab.jsonld](https://schema.nfh.global/FulfillmentStageEndpoint/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/vocab.jsonld](https://schema.nfh.global/FulfillmentStageEndpoint/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

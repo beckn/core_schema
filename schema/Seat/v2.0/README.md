@@ -6,13 +6,9 @@ A specific seat position reserved or assigned to a passenger on a flight, train,
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Seat/attributes.yaml](https://schema.nfh.global/Seat/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Seat/v2.0/attributes.yaml](https://schema.nfh.global/Seat/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Seat/attributes.jsonschema.yaml](https://schema.nfh.global/Seat/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Seat/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Seat/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Seat/context.jsonld](https://schema.nfh.global/Seat/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Seat/v2.0/context.jsonld](https://schema.nfh.global/Seat/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Seat/vocab.jsonld](https://schema.nfh.global/Seat/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Seat/v2.0/vocab.jsonld](https://schema.nfh.global/Seat/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

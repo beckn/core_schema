@@ -6,13 +6,9 @@ Beckn v2.1 extension schema for the performanceAttributes container. Captures co
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/attributes.yaml](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/attributes.yaml](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/attributes.jsonschema.yaml](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/attributes.jsonschema.yaml](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/context.jsonld](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/context.jsonld](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/vocab.jsonld](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/vocab.jsonld](https://schema.nfh.global/CourseDeliveryPerformanceAttributes/v2.1/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

@@ -6,13 +6,9 @@ A real-time update to the predicted arrival or departure time of a vehicle at a 
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/StopTimeUpdate/attributes.yaml](https://schema.nfh.global/StopTimeUpdate/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/StopTimeUpdate/v2.0/attributes.yaml](https://schema.nfh.global/StopTimeUpdate/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/StopTimeUpdate/attributes.jsonschema.yaml](https://schema.nfh.global/StopTimeUpdate/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/StopTimeUpdate/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/StopTimeUpdate/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/StopTimeUpdate/context.jsonld](https://schema.nfh.global/StopTimeUpdate/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/StopTimeUpdate/v2.0/context.jsonld](https://schema.nfh.global/StopTimeUpdate/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/StopTimeUpdate/vocab.jsonld](https://schema.nfh.global/StopTimeUpdate/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/StopTimeUpdate/v2.0/vocab.jsonld](https://schema.nfh.global/StopTimeUpdate/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

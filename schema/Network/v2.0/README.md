@@ -6,13 +6,9 @@ A grouping of routes and lines operated under a common brand or authority, used 
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Network/attributes.yaml](https://schema.nfh.global/Network/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Network/v2.0/attributes.yaml](https://schema.nfh.global/Network/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Network/attributes.jsonschema.yaml](https://schema.nfh.global/Network/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Network/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Network/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Network/context.jsonld](https://schema.nfh.global/Network/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Network/v2.0/context.jsonld](https://schema.nfh.global/Network/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Network/vocab.jsonld](https://schema.nfh.global/Network/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Network/v2.0/vocab.jsonld](https://schema.nfh.global/Network/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

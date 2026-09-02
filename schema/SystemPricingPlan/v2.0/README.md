@@ -6,13 +6,9 @@ A pricing plan defined by a shared mobility system, describing costs and billing
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/SystemPricingPlan/attributes.yaml](https://schema.nfh.global/SystemPricingPlan/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/SystemPricingPlan/v2.0/attributes.yaml](https://schema.nfh.global/SystemPricingPlan/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/SystemPricingPlan/attributes.jsonschema.yaml](https://schema.nfh.global/SystemPricingPlan/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/SystemPricingPlan/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/SystemPricingPlan/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/SystemPricingPlan/context.jsonld](https://schema.nfh.global/SystemPricingPlan/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/SystemPricingPlan/v2.0/context.jsonld](https://schema.nfh.global/SystemPricingPlan/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/SystemPricingPlan/vocab.jsonld](https://schema.nfh.global/SystemPricingPlan/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/SystemPricingPlan/v2.0/vocab.jsonld](https://schema.nfh.global/SystemPricingPlan/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

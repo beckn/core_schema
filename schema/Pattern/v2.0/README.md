@@ -6,13 +6,9 @@ A unique sequence of stops visited by trips on a route, grouping trips with iden
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Pattern/attributes.yaml](https://schema.nfh.global/Pattern/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Pattern/v2.0/attributes.yaml](https://schema.nfh.global/Pattern/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Pattern/attributes.jsonschema.yaml](https://schema.nfh.global/Pattern/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Pattern/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Pattern/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Pattern/context.jsonld](https://schema.nfh.global/Pattern/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Pattern/v2.0/context.jsonld](https://schema.nfh.global/Pattern/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Pattern/vocab.jsonld](https://schema.nfh.global/Pattern/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Pattern/v2.0/vocab.jsonld](https://schema.nfh.global/Pattern/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

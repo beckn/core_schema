@@ -6,13 +6,9 @@ A journey planning response containing one or more itinerary options for a given
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/Plan/attributes.yaml](https://schema.nfh.global/Plan/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/Plan/v2.0/attributes.yaml](https://schema.nfh.global/Plan/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/Plan/attributes.jsonschema.yaml](https://schema.nfh.global/Plan/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/Plan/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/Plan/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/Plan/context.jsonld](https://schema.nfh.global/Plan/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/Plan/v2.0/context.jsonld](https://schema.nfh.global/Plan/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/Plan/vocab.jsonld](https://schema.nfh.global/Plan/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/Plan/v2.0/vocab.jsonld](https://schema.nfh.global/Plan/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties

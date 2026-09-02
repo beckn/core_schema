@@ -6,13 +6,9 @@ A set of rules governing the locations and conditions under which passengers may
 
 | File | Purpose |
 |---|---|
-| [https://schema.nfh.global/PickupPolicy/attributes.yaml](https://schema.nfh.global/PickupPolicy/attributes.yaml) | OpenAPI schema envelope (latest path) |
 | [https://schema.nfh.global/PickupPolicy/v2.0/attributes.yaml](https://schema.nfh.global/PickupPolicy/v2.0/attributes.yaml) | OpenAPI schema envelope (versioned path) |
-| [https://schema.nfh.global/PickupPolicy/attributes.jsonschema.yaml](https://schema.nfh.global/PickupPolicy/attributes.jsonschema.yaml) | JSON Schema document (latest path) |
 | [https://schema.nfh.global/PickupPolicy/v2.0/attributes.jsonschema.yaml](https://schema.nfh.global/PickupPolicy/v2.0/attributes.jsonschema.yaml) | JSON Schema document (versioned path) |
-| [https://schema.nfh.global/PickupPolicy/context.jsonld](https://schema.nfh.global/PickupPolicy/context.jsonld) | JSON-LD context (latest path) |
 | [https://schema.nfh.global/PickupPolicy/v2.0/context.jsonld](https://schema.nfh.global/PickupPolicy/v2.0/context.jsonld) | JSON-LD context (versioned path) |
-| [https://schema.nfh.global/PickupPolicy/vocab.jsonld](https://schema.nfh.global/PickupPolicy/vocab.jsonld) | RDF vocabulary (latest path) |
 | [https://schema.nfh.global/PickupPolicy/v2.0/vocab.jsonld](https://schema.nfh.global/PickupPolicy/v2.0/vocab.jsonld) | RDF vocabulary (versioned path) |
 
 ## Properties
