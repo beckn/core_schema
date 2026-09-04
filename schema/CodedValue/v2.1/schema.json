@@ -1,0 +1,33 @@
+{
+  "$id": "https://schema.nfh.global/CodedValue/v2.1",
+  "x-iri": "https://schema.nfh.global/CodedValue/v2.1",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CodedValue",
+  "type": "object",
+  "description": "A single code drawn from an external or administrative coding authority. The triple (@context, @type, code) uniquely identifies the value within the authority's namespace.",
+  "required": [
+    "@context",
+    "@type",
+    "code"
+  ],
+  "properties": {
+    "@context": {
+      "type": "string",
+      "format": "uri",
+      "description": "URI of the coding authority that defines and maintains this code system. Examples: https://lgdirectory.gov.in \u2014 India Local Government Directory, https://www.knbs.or.ke \u2014 Kenya National Bureau of Statistics, https://www.iso.org/iso-3166 \u2014 ISO 3166 country/subdivision codes, https://www.who.int/classifications \u2014 WHO ICD / ATC classifications, https://www.indiapost.gov.in \u2014 India Post PIN code system, https://iebc.or.ke \u2014 Kenya IEBC ward codes"
+    },
+    "@type": {
+      "type": "string",
+      "description": "Name of the code class within the authority's namespace. Identifies which dimension of the authority's code system this entry belongs to. Examples: LGDDistrict, LGDVillage, KenyaCounty, KenyaWard, PINCode, GhanaDistrict, NigeriaLGA, ISOSubdivision, ICDCode."
+    },
+    "code": {
+      "type": "string",
+      "description": "The actual code string as published by the authority. Examples: \"507\" (LGD district), \"022\" (Kenya county), \"422001\" (PIN code), \"WD-0142\" (Kenya ward), \"IN-KA\" (ISO 3166-2 Karnataka)."
+    },
+    "display": {
+      "type": "string",
+      "description": "Optional human-readable label for the code as defined by the authority. Informational only \u2014 do not use for filtering or matching; use `code`. Examples: \"Nashik\", \"Kiambu\", \"Greater Bengaluru\"."
+    }
+  },
+  "additionalProperties": false
+}

@@ -11,43 +11,41 @@ components:
   schemas:
     GroceryItem:
       x-iri: https://schema.nfh.global/GroceryItem/v2.0
-      allOf:
-      - $ref: https://schema.nfh.global/RetailCoreItem/v2.0/attributes.yaml#/components/schemas/RetailCoreItem
-      - type: object
-        additionalProperties: false
-        x-jsonld: {}
-        description: 'Grocery-specific extensions to RetailCoreItemAttributes. Covers
-          nutrition information and fresh produce declarations.
+      type: object
+      additionalProperties: false
+      x-jsonld: {}
+      description: 'Grocery-specific extensions to RetailCoreItemAttributes. Covers
+        nutrition information and fresh produce declarations.
 
-          '
-        properties:
-          nutrition:
-            type: array
-            description: 'Nutrition facts per serving or per 100g/100ml. Context of
-              measurement may be specified via unit.
+        '
+      properties:
+        nutrition:
+          type: array
+          description: 'Nutrition facts per serving or per 100g/100ml. Context of
+            measurement may be specified via unit.
 
-              '
-            items:
-              type: object
-              additionalProperties: false
-              required:
-              - nutrient
-              - value
-              properties:
-                nutrient:
-                  type: string
-                  description: Nutrient name (e.g., Energy, Protein, Sodium).
-                value:
-                  description: Nutrient value expressed as Beckn core Quantity.
-                  $ref: https://schema.nfh.global/Quantity/v2.0/attributes.yaml#/components/schemas/Quantity
-          freshProduce:
+            '
+          items:
             type: object
             additionalProperties: false
-            description: 'Additional declaration applicable for unpackaged or loose
-              produce.
-
-              '
+            required:
+            - nutrient
+            - value
             properties:
-              netQuantityDeclaration:
+              nutrient:
                 type: string
-                description: Declared weight/quantity information for loose produce.
+                description: Nutrient name (e.g., Energy, Protein, Sodium).
+              value:
+                description: Nutrient value expressed as Beckn core Quantity.
+                $ref: https://schema.nfh.global/Quantity/v2.0/attributes.yaml#/components/schemas/Quantity
+        freshProduce:
+          type: object
+          additionalProperties: false
+          description: 'Additional declaration applicable for unpackaged or loose
+            produce.
+
+            '
+          properties:
+            netQuantityDeclaration:
+              type: string
+              description: Declared weight/quantity information for loose produce.
